@@ -48,16 +48,16 @@
             </div><!-- ArticleGrid -->
             <div class="ArticleGrid-4">
                 <div id="infobar">
-                    <h2 style="font-size:2em;">Why CFFC?</h2>
+                    <h2 style="font-size:2em;">Why CFFC Kids?</h2>
                     <ul class="dash-list">
-                       <li>Supportive community</li>
-                       <li>Professional and caring coaches</li>
-                       <li>Commitment to your success</li>
+                       <li>Self confidence . . .</li>
+                       <li>?</li>
+                       <li>?</li>
                     </ul>
                     <p style="padding-top:12px"><a href="https://crossfitfallschurch.zenplanner.com/zenplanner/portal/sign-up-now.cfm">Sign Up Now</a></p>
                     <h2>News</h2>
                     <?php $recent = new WP_Query("page_id=686"); while($recent->have_posts()) : $recent->the_post();?> <?php the_content(); ?> <?php endwhile; ?>
-
+                    <!--
                     <h2>Community</h2>
                     <ul class="horizontal">
                         <li>
@@ -77,6 +77,7 @@
                         </li>
                     </ul>
                     <hr>
+                    -->                    
                     <p>
                       <a href="http://journal.crossfit.com/start.tpl?version=CFJ-black123x63" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource">
                         <img src="http://journal.crossfit.com/templates/images/black-125x63.png" width="125px" height="63px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" />
