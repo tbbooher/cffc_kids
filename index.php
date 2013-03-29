@@ -16,41 +16,6 @@
 <div class="LayoutP LayoutCenter ArticleGrid">
     <div class="LayoutRow Link">
         <div class="LayoutBreakAfter">
-            <div class="ArticleGrid-1-4" style="margin-left:auto; margin-right: auto; width: 100%; float: none;">
-                <div>
-                    <div id="slider" class="nivoSlider">
-                        <a href="/get-started/">
-                          <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/be_part_of_a_community.jpg" alt="" >
-                        </a>
-                        <a href="/get-started/">
-                          <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/train_with_profi_staff.jpg" alt="" >
-                        </a>
-                        <a href="/get-started/">
-                          <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/get_results.jpg" alt="" >
-                        </a>
-                        <a href="/get-started/">
-                          <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/join_us_for_a_free_workout.jpg" alt="" >
-                        </a>
-                    </div>
-                </div>
-                <div id="htmlcaption" class="nivo-html-caption">
-                    <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
-                </div>
-                <script type="text/javascript">
-                    jQuery(window).load(function() {
-                        jQuery('#slider').nivoSlider({
-                         effect: 'fade',
-                         randomStart: false,
-                         pauseOnHover: true
-                         });
-                         // animSpeed: 4000
-                    });
-                </script>
-            </div>
-        </div>
-    </div>
-    <div class="LayoutRow Link">
-        <div class="LayoutBreakAfter">
             <div class="ArticleGrid-1-3" id="main">
 
                 <?php if ( have_posts() ) : ?>
