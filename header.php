@@ -121,91 +121,15 @@
 
     <div class="SiteHeaderBar" id="shBar">
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="introduction_panel">
-            <span class="SiteHeaderBarLink">Introduction</span>
-
-            <div class="SiteHeaderDropPanel" id="IntroductionPanel" style="display: none;">
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="intro1">
-                    <span class="SiteHeaderPanelHeader"><a href="/introduction/what-is-crossfit/">What is CrossFit?</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="intro2">
-                    <span class="SiteHeaderPanelHeader"><a href="/introduction/testimonials/">Testimonials</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="intro3">
-                    <span class="SiteHeaderPanelHeader"><a href="/introduction/faq/">FAQ</a></span>
-                </div>
-
-            </div>
+            <span class="SiteHeaderBarLink"><a href="/introduction/">Introduction</a></span>
         </div>
 
-        <a href="/get-started/" id="get_started" class="SiteHeaderBarItem SiteHeaderBarLink">Get Started</a>
-
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="our_programs_panel">
-            <span class="SiteHeaderBarLink">Our Programs</span>
-
-            <div class="SiteHeaderDropPanel" id="OurProgramsPanel" style="display: none; ">
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="programs2">
-                    <span class="SiteHeaderPanelHeader"><a href="/our-programs/group-classes/">Group Classes</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="programs3">
-                    <span class="SiteHeaderPanelHeader"><a href="/our-programs/private-classes/">Private
-                        Classes</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="programs4">
-                    <span class="SiteHeaderPanelHeader"><a href="/our-programs/adaptation-barbell-club/">Adaptation Barbell Club</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="programs5">
-                    <span class="SiteHeaderPanelHeader"><a href="/our-programs/yoga-for-athletes/">Yoga</a></span>
-                </div>
-
-            </div>
+            <span class="SiteHeaderBarLink">Schedule</span>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_and_fees_panel">
-            <span class="SiteHeaderBarLink">Schedule & Fees</span>
-
-            <div class="SiteHeaderDropPanel" id="StorePanel" style="display: none; ">
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees1">
-                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/schedule/">Class Schedule</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees2">
-                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/prices/">Prices</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees3">
-                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/dropping-in/">Dropping In</a></span>
-                </div>
-            </div>
-        </div>
-
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="about_us_panel">
-            <span class="SiteHeaderBarLink">About Us</span>
-
-            <div class="SiteHeaderDropPanel" id="AboutUsPanel" style="display: none;">
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us1">
-                    <span class="SiteHeaderPanelHeader"><a href="/about-us/staff/">Staff</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us2">
-                    <span class="SiteHeaderPanelHeader"><a href="/about-us/community/">Our Community</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us3">
-                    <span class="SiteHeaderPanelHeader"><a href="/about-us/location/">Location</a></span>
-                </div>
-
-                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us4">
-                    <span class="SiteHeaderPanelHeader"><a href="/about-us/contact/">Contact</a></span>
-                </div>
-
-            </div>
+            <span class="SiteHeaderBarLink">General Info</span>
         </div>
 
     </div><!-- site header bar -->
