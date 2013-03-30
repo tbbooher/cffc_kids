@@ -9,7 +9,7 @@
  * @since Twenty Eleven 1.0
  */
 ?>
-
+<p>totally needs updated once we settle on the kids layout</p>
     <div id="SiteFooter" class="SiteFooter Text TextSmall TextInvert LayoutBreak">
         <div class="LayoutBreakAfter">
             <div class="LayoutGrid-1 LayoutSlimGrid-2 LinkInvert">
