@@ -125,7 +125,7 @@
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_panel">
-            <a href="/schedule/" class="SiteHeaderBarLink">Schedule</a>
+            <a href="/schedule/" class="SiteHeaderBarLink">Current Schedule</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="general_info_panel">
