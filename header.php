@@ -121,19 +121,19 @@
 
     <div class="SiteHeaderBar" id="shBar">
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="introduction_panel">
-            <span class="SiteHeaderBarLink"><a href="/fall-2013-plan/" class="SiteHeaderBarItem SiteHeaderBarLink">Future</a></span>
+           <a href="/fall-2013-plan/" class="SiteHeaderBarLink">Future</a>
         </div>
 
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="schedule_panel">
-            <span class="SiteHeaderBarLink"><a href="/schedule/" class="SiteHeaderBarItem SiteHeaderBarLink">Schedule</span>
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_panel">
+            <a href="/schedule/" class="SiteHeaderBarLink">Schedule</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="general_info_panel">
-            <span class="SiteHeaderBarLink"><a href="/general_info/" class="SiteHeaderBarItem SiteHeaderBarLink">Introduction</a></span>
+            <a href="/general_info/" class="SiteHeaderBarLink">Introduction</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="about_us_panel">
-            <span class="SiteHeaderBarLink"><a href="/about_us/" class="SiteHeaderBarItem SiteHeaderBarLink">About Us</a></span>
+            <a href="/about_us/" class="SiteHeaderBarLink">About Us</a>
         </div>
 
     </div><!-- site header bar -->
