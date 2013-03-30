@@ -136,6 +136,10 @@
             <a href="/about_us/" class="SiteHeaderBarLink">About Us</a>
         </div>
 
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
+            <a href="http://www.crossfitfallschurch.com/" class="SiteHeaderBarLink">Main Site</a>
+        </div>
+
     </div><!-- site header bar -->
 
 </div><!-- SiteHeader -->
