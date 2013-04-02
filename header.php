@@ -121,15 +121,15 @@
 
     <div class="SiteHeaderBar" id="shBar">
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="introduction_panel">
-           <a href="/fall-2013-plan/" class="SiteHeaderBarLink">What is CrossFit Kids</a>
+           <a href="/what_is_cf_kids/" class="SiteHeaderBarLink">What is CrossFit Kids</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_panel">
-            <a href="/schedule/" class="SiteHeaderBarLink">Stance</a>
+            <a href="/stance/" class="SiteHeaderBarLink">Stance</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="general_info_panel">
-            <a href="/general_info/" class="SiteHeaderBarLink">Camp Schedule</a>
+            <a href="/camp_schedule/" class="SiteHeaderBarLink">Camp Schedule</a>
         </div>
 <!--
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="about_us_panel">
@@ -137,12 +137,13 @@
         </div>
 -->
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
-            <a href="http://www.crossfitfallschurch.com/" class="SiteHeaderBarLink">Future Plans</a>
+            <a href="/future_plans/" class="SiteHeaderBarLink">Future Plans</a>
         </div>
+
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
-            <a href="http://www.crossfitfallschurch.com/" class="SiteHeaderBarLink">Additional Info</a>
+            <a href="/additional_info/" class="SiteHeaderBarLink">Additional Info</a>
         </div>        
-        
+
     </div><!-- site header bar -->
 
 </div><!-- SiteHeader -->
