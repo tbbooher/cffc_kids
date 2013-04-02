@@ -141,7 +141,7 @@
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
-            <a href="/additional_info/" class="SiteHeaderBarLink">Additional Info</a>
+            <a href="/additional_info/" class="SiteHeaderBarLink">Great Info</a>
         </div>        
 
     </div><!-- site header bar -->
