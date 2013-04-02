@@ -142,7 +142,11 @@
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
             <a href="/additional_info/" class="SiteHeaderBarLink">Great Info</a>
-        </div>        
+        </div>       
+
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
+            <a href="/coaching-staff/" class="SiteHeaderBarLink">Coaches</a>
+        </div>  
 
     </div><!-- site header bar -->
 
