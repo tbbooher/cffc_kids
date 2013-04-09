@@ -80,16 +80,26 @@
                     </ul>
                     <hr>
                     -->                    
-                    <p>
-                      <a href="http://journal.crossfit.com/start.tpl?version=CFJ-black123x63" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource">
-                        <img src="http://journal.crossfit.com/templates/images/black-125x63.png" width="125px" height="63px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" />
-                      </a>
-                    </p>
-                    <p>
+                    <h2>Boxes</h2>
+                    <p class="box">
                       <a href="http://www.crossfitadaptation.com/">
                         <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/sweatlogo.gif" alt="CrossFit Adaptation" width="200px" height="92px">
                       </a>
                     </p>
+                    <p class="box">
+                      <a href="http://www.crossfitfallschurch.com/">
+                        <img src="/wp-content/themes/crossfit_fallschurch_theme/images/crossfit-mainsite-link.png" alt="CFFC MainSite" width="200px" height="59px">
+                      </a>
+                    </p>
+                    <h2>Resources</h2>
+                    <p class="cffj">
+                      <a href="http://www.crossfitkids.com"><img src="http://media.crossfit.com/badges/CFK_logo_v_tag_color_lightbg.png"/></a>                      
+                    </p>
+                    <p class="cffj" style="padding-left:5px;">
+                      <a href="http://journal.crossfit.com/start.tpl?version=CFJ-black123x63" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource">
+                        <img src="/wp-content/themes/crossfit_fallschurch_theme/images/cffj.gif" width="150px" height="75px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" />
+                      </a>
+                    </p>                    
                     <hr>
                     <ul class="SiteFooterLinkList">
                       <li style="list-style-type: none;"><?php get_search_form(); ?></li>

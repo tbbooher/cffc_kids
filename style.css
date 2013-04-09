@@ -1052,3 +1052,9 @@ input[type="password"], input[type="search"], isindex {
 input#searchsubmit {
     display: none;
 }
+
+/* KATE IS GREAT */
+
+.box {
+  padding: 15px 0;
+}
