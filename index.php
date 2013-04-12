@@ -80,15 +80,15 @@
                     </ul>
                     <hr>
                     -->                    
-                    <h2>Boxes</h2>
-                    <p class="box">
-                      <a href="http://www.crossfitadaptation.com/">
-                        <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/sweatlogo.gif" alt="CrossFit Adaptation" width="200px" height="92px">
-                      </a>
-                    </p>
+                    <h2>Our CrossFit Affiliates</h2>
                     <p class="box">
                       <a href="http://www.crossfitfallschurch.com/">
                         <img src="/wp-content/themes/crossfit_fallschurch_theme/images/crossfit-mainsite-link.png" alt="CFFC MainSite" width="200px" height="59px">
+                      </a>
+                    </p>
+                    <p class="box">
+                      <a href="http://www.crossfitadaptation.com/">
+                        <img src="/wp-content/themes/crossfit_fallschurch_theme/images/front_page/sweatlogo.gif" alt="CrossFit Adaptation" width="200px" height="92px">
                       </a>
                     </p>
                     <h2>Resources</h2>

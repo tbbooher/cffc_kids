@@ -142,7 +142,7 @@ About us tab: (much like the FC site tab)
 
     <div class="SiteHeaderBar" id="shBar">
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="introduction_panel">
-            <a href="/what-is-cfks" class="SiteHeaderBarLink">What is CFKs</a>
+            <a href="/what-is-cfks" class="SiteHeaderBarLink">What is CrossFit Kids?</a>
 
             <div class="SiteHeaderDropPanel" id="IntroductionPanel" style="display: none;">
                 <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="intro1">
@@ -176,7 +176,7 @@ About us tab: (much like the FC site tab)
 
             <div class="SiteHeaderDropPanel" id="StorePanel" style="display: none; ">
                 <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees1">
-                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/summer-camp-schedule/">Summer camp schedule</a></span>
+                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/summer-camp-schedule/">Summer Camp Schedule</a></span>
                 </div>
 
                 <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees2">
