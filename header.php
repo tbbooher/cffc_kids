@@ -121,19 +121,27 @@
 
     <div class="SiteHeaderBar" id="shBar">
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="introduction_panel">
+<<<<<<< HEAD
             <a href="/fall-2013-plan/" class="SiteHeaderBarItem SiteHeaderBarLink">Future</a>
+=======
+           <a href="/fall-2013-plan/" class="SiteHeaderBarLink">Future</a>
+>>>>>>> da02cf8bdbc9d6b3ac1cc5f68dd198776b3246c9
         </div>
 
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="schedule_panel">
-            <span class="SiteHeaderBarLink"><a href="/schedule/" class="SiteHeaderBarItem SiteHeaderBarLink">Schedule</span>
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_panel">
+            <a href="/schedule/" class="SiteHeaderBarLink">Current Schedule</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="general_info_panel">
-            <span class="SiteHeaderBarLink"><a href="/general_info/" class="SiteHeaderBarItem SiteHeaderBarLink">Introduction</a></span>
+            <a href="/general_info/" class="SiteHeaderBarLink">Introduction</a>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="about_us_panel">
-            <span class="SiteHeaderBarLink"><a href="/about_us/" class="SiteHeaderBarItem SiteHeaderBarLink">About Us</a></span>
+            <a href="/about_us/" class="SiteHeaderBarLink">About Us</a>
+        </div>
+
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
+            <a href="http://www.crossfitfallschurch.com/" class="SiteHeaderBarLink">Main Site</a>
         </div>
 
     </div><!-- site header bar -->
