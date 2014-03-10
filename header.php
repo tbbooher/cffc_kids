@@ -171,7 +171,7 @@ About us tab: (much like the FC site tab)
             </div>
         </div>
 
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_and_fees_panel">
+<!--         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_and_fees_panel">
             <a href="/schedule-and-fees" class="SiteHeaderBarLink">Schedule &amp; Fees</a>
 
             <div class="SiteHeaderDropPanel" id="StorePanel" style="display: none; ">
@@ -183,7 +183,7 @@ About us tab: (much like the FC site tab)
                     <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/fees/">Fees</a></span>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="about_us_panel">
             <a href="/about-us/" class="SiteHeaderBarLink">About Us</a>
