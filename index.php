@@ -82,8 +82,7 @@
                     -->
                     <h2>Schedule</h2>
                     <ul>
-                      <li>Thursdays at 4:30 pm.</li>
-                      <li>Saturdays at 1:00pm.</li>
+                      <li>Tuesdays and Thursdays at 4:30 pm.</li>
                     </ul>
                     <h2>Our CrossFit Affiliates</h2>
                     <p class="box">
