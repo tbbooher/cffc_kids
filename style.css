@@ -298,7 +298,7 @@ a.nivo-prevNav {left:15px;}
     background: -ms-linear-gradient(top,#505050,#343434);
     background: -o-linear-gradient(top,#505050,#343434);
     float: right;
-    width:613px;
+    width:578px;
 }
 
 .SiteHeaderBar, .SiteHeaderUser {
@@ -1051,4 +1051,10 @@ input[type="password"], input[type="search"], isindex {
 
 input#searchsubmit {
     display: none;
+}
+
+/* KATE IS GREAT */
+
+.box {
+  padding: 15px 0;
 }

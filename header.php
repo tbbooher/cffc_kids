@@ -118,32 +118,103 @@
         <a href="/" style="border:none;"><img src="/wp-content/themes/crossfit_fallschurch_theme/CFFC_Logo/top_logo.png"></a>
         <!-- <a href="/" style="border:none;"><img src="/wp-content/themes/crossfit_fallschurch_theme/CFFC_Logo/top-bar_for_page.png"></a> -->
     </div>
+<!--
+What is CFKs, drop down links to:
+   What is CFKs
+   Our Stance page
+   Great info page
+
+Programs
+   Summer Camps
+   Future plans
+
+Schedule & Fees
+   Summer camp schedule
+   Fees 
+
+About us tab: (much like the FC site tab)
+   Coaches
+   Location
+   Contact us
+-->
+
+<!-- **** -->
 
     <div class="SiteHeaderBar" id="shBar">
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="introduction_panel">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <a href="/fall-2013-plan/" class="SiteHeaderBarItem SiteHeaderBarLink">Future</a>
 =======
            <a href="/fall-2013-plan/" class="SiteHeaderBarLink">Future</a>
 >>>>>>> da02cf8bdbc9d6b3ac1cc5f68dd198776b3246c9
+=======
+            <a href="/what-is-cfks" class="SiteHeaderBarLink">What is CrossFit Kids?</a>
+
+            <div class="SiteHeaderDropPanel" id="IntroductionPanel" style="display: none;">
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="intro1">
+                    <a href="/introduction/our-stance/">Our Stance</a>
+                </div>
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="intro2">
+                    <span class="SiteHeaderPanelHeader"><a href="/introduction/great-info/">Great Info</a></span>
+                </div>
+            </div>
+>>>>>>> e9d3a731773b1d7b4f7d434adc469984fbd76a61
         </div>
 
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_panel">
-            <a href="/schedule/" class="SiteHeaderBarLink">Current Schedule</a>
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem SiteHeaderBarItemFirst" id="our_programs_panel">
+            <a href="/programs" class="SiteHeaderBarLink">Programs</a>
+
+            <div class="SiteHeaderDropPanel" id="OurProgramsPanel" style="display: none; ">
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="programs2">
+                    <span class="SiteHeaderPanelHeader"><a href="/programs/summer-camps/">Summer Camps</a></span>
+                </div>
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="programs3">
+                    <span class="SiteHeaderPanelHeader"><a href="/programs/future-plans/">Future Plans</a></span>
+                </div>
+
+            </div>
         </div>
 
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="general_info_panel">
-            <a href="/general_info/" class="SiteHeaderBarLink">Introduction</a>
+        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="schedule_and_fees_panel">
+            <a href="/schedule-and-fees" class="SiteHeaderBarLink">Schedule &amp; Fees</a>
+
+            <div class="SiteHeaderDropPanel" id="StorePanel" style="display: none; ">
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees1">
+                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/summer-camp-schedule/">Summer Camp Schedule</a></span>
+                </div>
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="schedule_and_fees2">
+                    <span class="SiteHeaderPanelHeader"><a href="/schedule-and-fees/fees/">Fees</a></span>
+                </div>
+            </div>
         </div>
 
         <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="about_us_panel">
-            <a href="/about_us/" class="SiteHeaderBarLink">About Us</a>
+            <a href="/about-us/" class="SiteHeaderBarLink">About Us</a>
+
+            <div class="SiteHeaderDropPanel" id="AboutUsPanel" style="display: none;">
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us1">
+                    <span class="SiteHeaderPanelHeader"><a href="/about-us/staff/">Coaches</a></span>
+                </div>
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us3">
+                    <span class="SiteHeaderPanelHeader"><a href="/about-us/location/">Location</a></span>
+                </div>
+
+                <div class="SiteHeaderPanelRow SiteHeaderPanelLink" id="about_us4">
+                    <span class="SiteHeaderPanelHeader"><a href="/about-us/contact/">Contact</a></span>
+                </div>
+
+            </div>
         </div>
 
-        <div class="SiteHeaderDropdownLink SiteHeaderBarItem" id="main_site_panel">
-            <a href="http://www.crossfitfallschurch.com/" class="SiteHeaderBarLink">Main Site</a>
-        </div>
+    </div>
 
-    </div><!-- site header bar -->
+<!-- **** -->
 
 </div><!-- SiteHeader -->
