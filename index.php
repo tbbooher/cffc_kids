@@ -79,7 +79,11 @@
                         </li>
                     </ul>
                     <hr>
-                    -->                    
+                    -->
+                    <h2>Schedule</h2>
+                    <ul>
+                      <li>Tuesdays and Thursdays at 4:30 pm.</li>
+                    </ul>
                     <h2>Our CrossFit Affiliates</h2>
                     <p class="box">
                       <a href="http://www.crossfitfallschurch.com/">
